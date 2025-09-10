@@ -5,7 +5,12 @@ This project demonstrates an **end-to-end Data Engineering pipeline** built on *
 The pipeline automates data ingestion, transformation, storage, and visualization, enabling **scalable analytics and business decision-making**.  
 
 ---
+## Demo Video
 
+
+https://github.com/user-attachments/assets/e14910aa-f7de-47d5-a3eb-fe1bd17d7cdf
+
+---
 ## 🏗️ Architecture
 ![Architecture Diagram](./architecture.png) <!-- You can replace with actual diagram -->
 
